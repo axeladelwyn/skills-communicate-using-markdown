@@ -9,3 +9,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, World!";
 ```
+``` python
+def factorial(n):
+    if n == 0:
+        return 1 #make the value to 1
+    else:
+        return n * factorial(n-1)
+print(factorial(0))
+```
